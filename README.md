@@ -1,1 +1,2 @@
-# twitch-bot-info
+# Информация о боте и его командах
+TEMPLATE_INFO
